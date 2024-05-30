@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Comunidade+Tech+%7C+Todos+Juntos" alt="Typing SVG">
   </a>
 </p>
-## Código Certo Coders
 
 ![CodigoCerto](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
