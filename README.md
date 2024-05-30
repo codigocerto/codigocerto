@@ -1,8 +1,9 @@
-![CodigoCerto](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Comunidade+Tech+%7C+Todos+Juntos)](https://git.io/typing-svg)
 
 # Código Certo
 
-**Impulsionando a Inovação e Desenvolvimento Digital**
+![CodigoCerto](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
 ## Nossos Diferenciais
 
