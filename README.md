@@ -6,27 +6,75 @@
 
 ![CodigoCerto](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
 
-## Nossos Diferenciais
+Bem-vindo ao **Código Certo** ! Somos uma iniciativa dedicada a capacitar novos talentos na área de tecnologia através de projetos práticos e mentoria especializada. Nossa missão é fomentar a inovação e o desenvolvimento digital, criando oportunidades de aprendizado e crescimento para todos.
 
-- 🆓 Gratuito para Todos
-- 👨‍💻 Abordagem Prática
-- ⌛ Flexibilidade de Horários
+---
 
-## Público Alvo
+## 🚀Nossos Diferenciais
 
-- 🧑‍🎓Estudantes em busca de aprendizado prático e networking
-- 🧑‍💼Profissionais Iniciantes em busca de mentoria, suporte e experiência
-- 🧓Profissionais Experientes em busca de oportunidades de liderança
+-  🆓 **Gratuito para Todos** : Acesso livre e gratuito para todos os participantes.
+-  👨‍💻 **Abordagem Prática** : Foco em aprendizado prático com projetos reais.
+-  ⌛ **Flexibilidade de horários** : Adapte sua participação conforme sua disponibilidade.
 
-## O que Oferecemos
+---
 
-1. Projetos voluntários na sua área de interesse
-2. Oportunidades de Crescimento e Networking
-3. Aprendizado Prático de Ferramentas e Métodos Ágeis
-4. Introdução ao Versionamento de Código
+## 🎯 Público Alvo
 
-#
+- 🧑‍🎓 **Estudantes** : Que buscam aprendizado prático e oportunidades de networking.
+- 🧑‍💼 **Profissionais Iniciantes** : Em busca de mentoria, suporte e experiência em projetos.
+- 🧓 **Profissionais Experientes** : Interessados ​​em oportunidades de liderança e contribuição para a comunidade.
 
-<a href="https://www.linkedin.com/company/codigocerto/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+---
+
+## 🌟 O que Oferecemos
+
+1. **Projetos Voluntários**: Participe de projetos na sua área de interesse, desenvolvendo suas habilidades enquanto contribui para causas significativas.
+2. **Oportunidades de Crescimento e Networking**: Conecte-se com profissionais estabelecidos no setor e expanda sua rede de contatos.
+3. **Aprendizado Prático de Ferramentas e Métodos Ágeis**: Explore e domine ferramentas e metodologias ágeis amplamente utilizadas no desenvolvimento de software.
+4. **Introdução ao Versionamento de Código**: Aprenda a gerenciar e colaborar em projetos de software utilizando plataformas como Git/GitHub.
+---
+
+## 📚 Recursos e Ferramentas
+
+-  **Ferramentas de Desenvolvimento** : VSCode, IntelliJ, PyCharm
+-  **Versionamento de Código** : Git, GitHub
+-  **Metodologias Ágeis** : Scrum, Kanban
+-  **Linguagens de Programação** : As mais diversas linguagens e áreas da programação
+
+---
+
+<!-- ## 📈 Como participar
+Mais informações no nosso Linkedin
+<!--1. **Inscrição**: Acesse nosso [formulário de inscrição](https://www.example.com) e envie suas informações. -->
+<!-- 2. **Seleção**: Aguarde nosso contato com os detalhes sobre o processo seletivo. -->
+<!-- 3. **Início**: Participe das atividades e projetos, aprendendo e crescendo com a comunidade. -->
+
+<!-- --- -->
+
+## 📞 Contato
+
+Para mais informações, siga-nos nas redes sociais ou entre em contato conosco diretamente:
+
+<div align="center">
+  <a href="https://www.linkedin.com/company/codigocerto/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+
+  <a href="codigocertocoders@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
+  <a href="https://chat.whatsapp.com/CDJL6tRT5apLRXW5PWqYLe">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</div>
+
+---
+
+## ✨ Contribuidores
+
+Agradecemos a todos os nossos colaboradores e voluntários que tornam esta iniciativa possível.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contribua%20no-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</div>
