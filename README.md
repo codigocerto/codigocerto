@@ -56,12 +56,16 @@ Mais informações no nosso Linkedin
 Para mais informações, siga-nos nas redes sociais ou entre em contato conosco diretamente:
 
 <div align="center">
+ <a href="codigocertocoders@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
   <a href="https://www.linkedin.com/company/codigocerto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 
-  <a href="codigocertocoders@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://www.instagram.com/codigocertocoders/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
   <a href="https://chat.whatsapp.com/CDJL6tRT5apLRXW5PWqYLe">
