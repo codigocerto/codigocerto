@@ -68,7 +68,7 @@ Para mais informações, siga-nos nas redes sociais ou entre em contato conosco 
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
-  <a href="https://chat.whatsapp.com/CDJL6tRT5apLRXW5PWqYLe">
+  <a href="https://chat.whatsapp.com/CYrfRQRLVcM6r0CreK4gYU">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
