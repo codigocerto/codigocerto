@@ -4,8 +4,6 @@
   </a>
 </p>
 
-![CodigoCerto](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
-
 Bem-vindo ao **Código Certo** ! Somos uma iniciativa dedicada a capacitar novos talentos na área de tecnologia através de projetos práticos e mentoria especializada. Nossa missão é fomentar a inovação e o desenvolvimento digital, criando oportunidades de aprendizado e crescimento para todos.
 
 ---
@@ -32,15 +30,6 @@ Bem-vindo ao **Código Certo** ! Somos uma iniciativa dedicada a capacitar novos
 2. **Oportunidades de Crescimento e Networking**: Conecte-se com profissionais estabelecidos no setor e expanda sua rede de contatos.
 3. **Aprendizado Prático de Ferramentas e Métodos Ágeis**: Explore e domine ferramentas e metodologias ágeis amplamente utilizadas no desenvolvimento de software.
 4. **Introdução ao Versionamento de Código**: Aprenda a gerenciar e colaborar em projetos de software utilizando plataformas como Git/GitHub.
----
-
-## 📚 Recursos e Ferramentas
-
--  **Ferramentas de Desenvolvimento** : VSCode, IntelliJ, PyCharm
--  **Versionamento de Código** : Git, GitHub
--  **Metodologias Ágeis** : Scrum, Kanban
--  **Linguagens de Programação** : As mais diversas linguagens e áreas da programação
-
 ---
 
 <!-- ## 📈 Como participar
